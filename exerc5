@@ -1,0 +1,7 @@
+
+
+1-Ligar o primeiro interruptor e esperar alguns minutos. O tempo é  que seja suficiente para que a lâmpada controlada por esse interruptor aqueça. Após esse tempo, desligar o primeiro interruptor e ligar o segundo interruptor.
+
+2-A lâmpada acesa estará conectada ao segundo interruptor, que foi o último a ser ligado.
+A lâmpada apagada e quente será a que estava conectada ao primeiro interruptor, que foi ligado primeiro e depois desligado.
+A lâmpada apagada e fria será a que está conectada ao terceiro interruptor, que não foi ligado em nenhum momento.
